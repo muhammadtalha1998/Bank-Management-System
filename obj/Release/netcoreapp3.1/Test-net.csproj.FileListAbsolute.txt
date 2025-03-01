@@ -1,0 +1,13 @@
+C:\Users\khiza\Downloads\Compressed\Test-net\bin\Release\netcoreapp3.1\Test-net.exe
+C:\Users\khiza\Downloads\Compressed\Test-net\bin\Release\netcoreapp3.1\Test-net.deps.json
+C:\Users\khiza\Downloads\Compressed\Test-net\bin\Release\netcoreapp3.1\Test-net.runtimeconfig.json
+C:\Users\khiza\Downloads\Compressed\Test-net\bin\Release\netcoreapp3.1\Test-net.runtimeconfig.dev.json
+C:\Users\khiza\Downloads\Compressed\Test-net\bin\Release\netcoreapp3.1\Test-net.dll
+C:\Users\khiza\Downloads\Compressed\Test-net\bin\Release\netcoreapp3.1\Test-net.pdb
+C:\Users\khiza\Downloads\Compressed\Test-net\obj\Release\netcoreapp3.1\Test-net.csprojAssemblyReference.cache
+C:\Users\khiza\Downloads\Compressed\Test-net\obj\Release\netcoreapp3.1\Test-net.AssemblyInfoInputs.cache
+C:\Users\khiza\Downloads\Compressed\Test-net\obj\Release\netcoreapp3.1\Test-net.AssemblyInfo.cs
+C:\Users\khiza\Downloads\Compressed\Test-net\obj\Release\netcoreapp3.1\Test-net.csproj.CoreCompileInputs.cache
+C:\Users\khiza\Downloads\Compressed\Test-net\obj\Release\netcoreapp3.1\Test-net.dll
+C:\Users\khiza\Downloads\Compressed\Test-net\obj\Release\netcoreapp3.1\Test-net.pdb
+C:\Users\khiza\Downloads\Compressed\Test-net\obj\Release\netcoreapp3.1\Test-net.genruntimeconfig.cache
